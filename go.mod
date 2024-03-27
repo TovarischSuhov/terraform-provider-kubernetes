@@ -148,4 +148,6 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
+replace github.com/hashicorp/terraform-plugin-codegen-kubernetes => /Users/mau/Dev/terraform-plugin-codegen-kubernetes
+
 go 1.21.5
